@@ -8,7 +8,7 @@
  */
 (function (global) {
   'use strict';
-  var API_URL = 'https://script.google.com/macros/s/AKfycbwTV_dECAt5il1Vogpci7QQob9t9Y4jZ-AR9-jXT7sQnhcjqrw1_F0Sdj7kJpXtwuBn/exec';
+  var API_URL = 'https://script.google.com/macros/s/AKfycbw5_o8mL02CWGa3vNILnP4OIe6Mmr_8q7_daVj8VYlvIvMewa9CnhqiS83QmfFSGrCU/exec';
   var sequence = 0;
 
   function request(resource, arguments_, onSuccess, onFailure) {
